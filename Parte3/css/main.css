@@ -1,0 +1,25 @@
+
+
+.caja{
+
+	width: 200px;
+	padding: 10px;
+	border: 2px solid orange;
+	margin-bottom: 15px;
+}
+.caja2{
+
+	width: 200px;
+	padding: 10px;
+	border: 2px solid orange;
+	margin: 4px;
+
+}
+.caja3{
+
+	width: 200px;
+	padding: 10px;
+	border: 2px solid orange;
+	margin-top: 8px;
+	margin: 0px;
+}
